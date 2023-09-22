@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Async_await", "WpfApp4\Asyn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{B2D47877-81B6-46D5-9286-64462898A2F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{48C8C141-693F-4BDD-9BB5-00D18A3EC0FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B2D47877-81B6-46D5-9286-64462898A2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2D47877-81B6-46D5-9286-64462898A2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2D47877-81B6-46D5-9286-64462898A2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C8C141-693F-4BDD-9BB5-00D18A3EC0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C8C141-693F-4BDD-9BB5-00D18A3EC0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C8C141-693F-4BDD-9BB5-00D18A3EC0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C8C141-693F-4BDD-9BB5-00D18A3EC0FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
